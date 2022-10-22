@@ -8,6 +8,6 @@ Mas información https://www.savethechildren.es/actualidad/suicidios-adolescente
 
 
 
-![Screenshot](C:\Users\Danie\Documents\GitHub\Depresu\screenshots\APP.png)
+![Screenshot](./screenshots/APP.png)
 
-![Screenshot 2](C:\Users\Danie\Documents\GitHub\Depresu\screenshots\structura%20FINAL.png)
+![Screenshot 2](./screenshots/structura%20FINAL.png)
